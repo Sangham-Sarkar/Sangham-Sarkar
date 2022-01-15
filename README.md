@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sangham-Sarkar
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning js
+- 
 
 <!---
 Sangham-Sarkar/Sangham-Sarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
