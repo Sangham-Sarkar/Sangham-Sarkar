@@ -6,4 +6,4 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangham-Sarkar)](https://github.com/Sangham-Sarkar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangham-Sarkar&theme=radical)](https://github.com/Sangham-Sarkar/github-readme-stats)
